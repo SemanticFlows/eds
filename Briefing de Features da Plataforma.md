@@ -1,3 +1,5 @@
+Link de outline - páginas
+https://www.figma.com/design/BUwdbsnUbYhwmlrYRdoP3l/Hacka-eds?node-id=0-1&t=xqYPRDZdqBJAlAH3-1
 
 **1. Core de Apostas (placar como eixo central)**
 
